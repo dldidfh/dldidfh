@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="center"> -->
-[![dldidfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldidfh&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </div> -->
-<br>
-<!-- <div align="center"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldidfh&hide=TSQL,HCL,PLSQL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </div> -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dldidfh)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dldidfh&theme=vue" />
+  </a>
+ </div>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dldidfh&hide=TSQL,HCL,PLSQL&layout=compact" />
+</a>
+</div>
