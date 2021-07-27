@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![dldidfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldidfh&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldidfh&hide=TSQL,HCL,PLSQL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![dldidfh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dldidfh)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![dldidfh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dldidfh)](https://github.com/anuraghazra/github-readme-stats) -->
